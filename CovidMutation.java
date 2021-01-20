@@ -15,7 +15,7 @@ import java.util.Scanner;
  * The program will print each of the chunks in reverse with a nested loop. If there is a final chunk that is smaller than length k, the program will also print this in reverse.
  */
 
-public class Main
+public class CovidMutation
 {
 	public static void main(String[] args)
 	{
