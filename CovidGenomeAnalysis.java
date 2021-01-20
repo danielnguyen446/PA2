@@ -18,7 +18,6 @@ public class CovidGenomeAnalysis
 	public static void main(String[] args)
 	{
 		String seq; //store the genome sequence
-		String newSeq;  //the complementary sequence
 		char base;
 		int thymineCount=0; //how many letter T's there are in the output
 	    
